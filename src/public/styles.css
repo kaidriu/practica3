@@ -1,0 +1,55 @@
+/* You can add global styles to this file, and also import other style files */
+* {
+  margin: 1px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+  background-color: black;
+  background-size: cover;
+  color: #fff;
+  font-size: 16px;
+  /* text-align: center; */
+}
+.widget {
+  width: 35%;
+  margin: 2em;
+  margin-left: auto;
+  margin-right: auto;
+}
+.widget p {
+  display: inline-block;
+  line-height: 1em;
+}
+.fecha {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+  color: black;
+  font-size: 1.5rem;
+  margin-bottom: 0;
+  background: #ffff00;
+  opacity: 80%;
+  padding: 20px;
+  width: 100%;
+  border: 20px;
+  border-radius: 10px;
+}
+.hora {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+  color: yellow;
+  font-size: 2em;
+  background: bla;
+  padding: 20px;
+  width: 100%;
+  
+}
+.saludo {
+  border-style: solid;
+  border-color: brown;
+  border-radius: 10px;
+  opacity: 100%;
+  font-family: cursive;
+  text-align: center;
+  font-size: 25px;
+}
